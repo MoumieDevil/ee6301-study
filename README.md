@@ -7,8 +7,16 @@
 This site is intended solely for personal study and course revision, for non-commercial purposes. Copyright in the referenced slides, images, and other materials belongs to their respective authors or rights holders. For copyright concerns, please open a [GitHub Issue](https://github.com/MoumieDevil/ee6301-study/issues) identifying the relevant page and material. We will promptly review the concern and remove the affected content.
 
 This static study site contains the bilingual Week 1–8 guide, 48 illustrations,
-chapter navigation, document search, and the 25-question practice quiz.
+chapter navigation, document search, a checked formula bank, and the 25-question practice quiz.
 Scope: Weeks 1–7 and Week 8 Parts One–Two only, as stated in the guide.
+
+Formula update (2026-10-14): the learning guide covers all 37 topics in the peer
+formula checklist and additional supported lecture relations. Each card explains
+symbols, units, conditions, pitfalls and a short example. Chapter links lead to
+the appropriate formulas. P1/P2/P3 indicate revision priority, not guaranteed questions.
+
+公式补全（2026-10-14）：复习讲义对照同学公式清单的全部37类主题，并补入范围内课件关系式。
+每项说明符号、单位、条件、易错点和短例，各章可直接跳转。P1/P2/P3表示复习顺序，不是出题保证。
 
 ## GitHub Pages
 
