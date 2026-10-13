@@ -1,5 +1,11 @@
 # EE6301 Study and Quiz / 复习与练习
 
+## 使用与版权声明 / Use and copyright notice
+
+本站资料仅供个人自学与课程复习，非商业用途。所引用的课件、图片及其他资料，其版权归原作者或相关权利人所有。如涉及版权问题，请通过 [GitHub Issues](https://github.com/MoumieDevil/ee6301-study/issues) 告知相关页面及材料；我们会及时核查并删除相关内容。
+
+This site is intended solely for personal study and course revision, for non-commercial purposes. Copyright in the referenced slides, images, and other materials belongs to their respective authors or rights holders. For copyright concerns, please open a [GitHub Issue](https://github.com/MoumieDevil/ee6301-study/issues) identifying the relevant page and material. We will promptly review the concern and remove the affected content.
+
 This static study site contains the bilingual Week 1–8 guide, 48 illustrations,
 chapter navigation, document search, and the 25-question practice quiz.
 Scope: Weeks 1–7 and Week 8 Parts One–Two only, as stated in the guide.
